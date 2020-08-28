@@ -1,0 +1,25 @@
+.exibicao {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  margin-bottom: 5px;
+}
+
+.bordered {
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.avatar {
+  margin-right: 10px;
+  border-radius: 50%;
+}
